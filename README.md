@@ -186,39 +186,6 @@ Build complete AI-powered products including:
 
 # 🧭 Learning Path
 
-```text
-Python Fundamentals
-        │
-        ▼
-Large Language Models
-        │
-        ▼
-LangChain
-        │
-        ▼
-LangGraph
-        │
-        ▼
-AI Agents
-        │
-        ▼
-Multi-Agent Systems
-        │
-        ▼
-Production RAG
-        │
-        ▼
-Model Context Protocol
-        │
-        ▼
-AI Workflow Automation
-        │
-        ▼
-Fine-Tuning LLMs
-        │
-        ▼
-Enterprise AI Applications
-```
 
 ---
 
